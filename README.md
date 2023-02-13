@@ -25,7 +25,8 @@
 ## UI Design:
 
 ## UI Video:
-https://user-images.githubusercontent.com/48874418/218400537-243a5113-0686-475b-9b57-296948c12e19.mp4
+https://user-images.githubusercontent.com/48874418/218400804-f925b617-a713-4209-9ff1-1c9015b4f65b.mp4
+
 
 
 
