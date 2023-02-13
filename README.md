@@ -1,16 +1,35 @@
-# day36
 
-A new Flutter project.
+## Weather App 
 
-## Getting Started
+## Used:
+->api
+->Map
+->Model Class 
+->SingleChildScrollView
+->Scaffold
+->Column
+->ListTile
+->Row
+->CircleAvatar
+->ListView
+->Appbar
+->Icon
+->Expanded
+->Textstyle
+->Clicpreact
+->Mediaquery
+->Container
+->BoxDecoration
+->Borderradius
 
-This project is a starting point for a Flutter application.
+## UI Design:
 
-A few resources to get you started if this is your first Flutter project:
+## UI Video:
+https://user-images.githubusercontent.com/48874418/218400537-243a5113-0686-475b-9b57-296948c12e19.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
